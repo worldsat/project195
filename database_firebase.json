@@ -1,0 +1,79 @@
+{
+  "Category": [
+    {
+      "id": 0,
+      "title": "Esspersso"
+    },
+    {
+      "id": 1,
+      "title": "Cappuccino"
+    },
+    {
+      "id": 2,
+      "title": "Latte"
+    },
+    {
+      "id": 3,
+      "title": "Americano"
+    },
+    {
+      "id": 4,
+      "title": "Hot Chocolate"
+    }
+  ],
+  "Items": [
+    {
+      "description": "Cappuccino is a traditional Italian coffee drink made with equal parts espresso, steamed milk, and milk foam. It has a strong espresso flavor, balanced by the creamy texture of the steamed milk and the light, airy foam on top. Cappuccinos are often garnished with a sprinkle of cocoa powder or cinnamon.",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/Cappoccino.jpg?alt=media&token=0e553cec-a35b-499b-932e-dac928036209"
+      ],
+      "price": 24,
+      "rating": 4.6,
+      "title": "Cappoccino"
+    },
+    {
+      "description": "Espresso is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It is made by forcing a small amount of nearly boiling water through finely-ground coffee beans under high pressure. The result is a rich, robust flavor with a thick, creamy layer on top called crema.",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/espersso.jpg?alt=media&token=cda8f337-5335-4199-a9be-97c45cb91314"
+      ],
+      "price": 22,
+      "rating": 4,
+      "title": "Espersso"
+    },
+    {
+      "description": "Espresso is a concentrated form of coffee served in small,strongshots and is the base for many coffee drinks. It is made by forcing a small amount of nearly boiling water through finely-ground coffee beans under high pressure.The result is a rich, robust flavor with a thick, creamy layer on top called crema",
+      "extra": "with milk",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/affagato.jpg?alt=media&token=003f38e5-b562-4735-877c-36c41ceb921b"
+      ],
+      "price": 20,
+      "rating": 4.1,
+      "title": "Affagato"
+    }
+  ],
+  "Offers": [
+    {
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/turk.jpg?alt=media&token=0b60e836-0d34-41f2-89f1-234ed1474fc6"
+      ],
+      "price": 40,
+      "title": "buy 2 and get 20% off"
+    },
+    {
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/americano.jpg?alt=media&token=2f123be3-5f59-4034-a77e-33ea114ee911"
+      ],
+      "price": 24,
+      "title": "buy 3 and get 25% off"
+    },
+    {
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/Cappoccino.jpg?alt=media&token=0e553cec-a35b-499b-932e-dac928036209"
+      ],
+      "price": 60,
+      "title": "buy 3 and get 15% off"
+    }
+  ]
+}
